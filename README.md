@@ -28,3 +28,25 @@ Sou um professor de informática, apaixonado por tecnologia e sempre em busca de
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
   ![LaTeX](https://img.shields.io/badge/-LaTeX-333333?style=flat&logo=latex)
 
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
